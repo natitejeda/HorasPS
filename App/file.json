@@ -1,0 +1,668 @@
+[
+    {
+        "cards": [
+            {
+                "clientID": "IN",
+                "ticketDescription": "Smartform ZAYSEN02",
+                "title": "IN-247-Smartform ZAYSEN02",
+                "ticketID": "247"
+            },
+            {
+                "clientID": "IN",
+                "ticketDescription": "Ajuste Function  SIAPPXF_SHELP",
+                "title": "IN-246-Ajuste Function  SIAPPXF_SHELP",
+                "ticketID": "246"
+            },
+            {
+                "clientID": "LA",
+                "ticketDescription": "Interfaz SAP para Banco - WSBanca PAIN",
+                "title": "LA-002-Interfaz SAP para Banco - WSBanca PAIN",
+                "ticketID": "002"
+            },
+            {
+                "clientID": "PR",
+                "ticketDescription": "24469-ZSDCOM LIQUIDACIÓN DE COMISIONES",
+                "title": "PR-495-24469-ZSDCOM LIQUIDACIÓN DE COMISIONES",
+                "ticketID": "495"
+            },
+            {
+                "clientID": "PR",
+                "ticketDescription": "23477-Corrección Vista FBL3H",
+                "title": "PR-494-23477-Corrección Vista FBL3H",
+                "ticketID": "494"
+            },
+            {
+                "clientID": "KR",
+                "ticketDescription": "BAPI Material Pricing",
+                "title": "KR-BAPI Material Pricing",
+                "ticketID": ""
+            },
+            {
+                "clientID": "BS",
+                "ticketDescription": "Soporte Inicial",
+                "title": "BS-Soporte Inicial",
+                "ticketID": ""
+            },
+            {
+                "clientID": "UN",
+                "ticketDescription": "Soporte Unisys",
+                "title": "UN-Soporte Unisys",
+                "ticketID": ""
+            },
+            {
+                "clientID": "IN",
+                "ticketDescription": "Administración de Tickets",
+                "title": "IN-Administración de Tickets",
+                "ticketID": ""
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Soporte Grupo Cavallaro",
+                "title": "GC-Soporte Grupo Cavallaro",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Problemas de Conexión",
+                "title": "PS-Problemas de Conexión",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Vacaciones",
+                "title": "PS-Vacaciones",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Feriado",
+                "title": "PS-Feriado",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Beneficios",
+                "title": "PS-Beneficios",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Médico",
+                "title": "PS-Médico",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Día de Estudio",
+                "title": "PS-Día de Estudio",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Horas Extras",
+                "title": "PS-Horas Extras",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Capacitacion",
+                "title": "PS-Capacitacion",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Seguimientos y Reuniones",
+                "title": "PS-Seguimientos y Reuniones",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Horas No Facturables",
+                "title": "PS-Horas No Facturables",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PR",
+                "ticketDescription": "23960-Contratos cereales",
+                "title": "PR-492-23960-Contratos cereales",
+                "ticketID": "492"
+            },
+            {
+                "clientID": "IN",
+                "ticketDescription": "Modificar función guardar y traer embalaje",
+                "title": "IN-237-Modificar función guardar y traer embalaje",
+                "ticketID": "237"
+            },
+            {
+                "clientID": "IN",
+                "ticketDescription": "Ajuste Function SIAPPAF_PI_GET_LIST",
+                "title": "IN-240-Ajuste Function SIAPPAF_PI_GET_LIST",
+                "ticketID": "240"
+            },
+            {
+                "clientID": "PR",
+                "ticketDescription": "22654-Soporte HASE Fecha de vencimiento",
+                "title": "PR-485-22654-Soporte HASE Fecha de vencimiento",
+                "ticketID": "485"
+            },
+            {
+                "clientID": "PR",
+                "ticketDescription": "20447-Fecha base Cálculo de Impuesto",
+                "title": "PR-462-20447-Fecha base Cálculo de Impuesto",
+                "ticketID": "462"
+            }
+        ],
+        "_id": "cuTWNKH9KPCE6HzJW",
+        "title": "PS - IN PR LA"
+    },
+    {
+        "cards": [
+            {
+                "clientID": "GC",
+                "ticketDescription": "Ajuste Lotes Vista Hana DETALLE_FACTURA_ACT",
+                "title": "GC-579-Ajuste Lotes Vista Hana DETALLE_FACTURA_ACT",
+                "ticketID": "579"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Diferencias kg polvo granel Vista HANA",
+                "title": "GC-578-Diferencias kg polvo granel Vista HANA",
+                "ticketID": "578"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Reporte listado de existencias BO",
+                "title": "GC-577-Reporte listado de existencias BO",
+                "ticketID": "577"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Variaciones de precio SAP vs txt ZSD005",
+                "title": "GC-576-Variaciones de precio SAP vs txt ZSD005",
+                "ticketID": "576"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Formato de fecha export SF EXP",
+                "title": "GC-575-Formato de fecha export SF EXP",
+                "ticketID": "575"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Replicar Formatos SF PY02",
+                "title": "GC-574-Replicar Formatos SF PY02",
+                "ticketID": "574"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Crear Vista Kilos Producidos BO",
+                "title": "GC-573-Crear Vista Kilos Producidos BO",
+                "ticketID": "573"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "BO Crear reporte automático de Repartos",
+                "title": "GC-565-BO Crear reporte automático de Repartos",
+                "ticketID": "565"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Reporte ventas BO y Vistas Hana",
+                "title": "GC-564-Reporte ventas BO y Vistas Hana",
+                "ticketID": "564"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Vista Hana Detalle Facturas 2 Monto Total",
+                "title": "GC-558-Vista Hana Detalle Facturas 2 Monto Total",
+                "ticketID": "558"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Comisiones para RRHH",
+                "title": "GC-548-Comisiones para RRHH",
+                "ticketID": "548"
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "FE Ajuste Performance Envio",
+                "title": "GC-547-FE Ajuste Performance Envio",
+                "ticketID": "547"
+            },
+            {
+                "clientID": "BS",
+                "ticketDescription": "Soporte Inicial",
+                "title": "BS-Soporte Inicial",
+                "ticketID": ""
+            },
+            {
+                "clientID": "UN",
+                "ticketDescription": "Soporte Unisys",
+                "title": "UN-Soporte Unisys",
+                "ticketID": ""
+            },
+            {
+                "clientID": "IN",
+                "ticketDescription": "Administración de Tickets",
+                "title": "IN-Administración de Tickets",
+                "ticketID": ""
+            },
+            {
+                "clientID": "GC",
+                "ticketDescription": "Soporte Grupo Cavallaro",
+                "title": "GC-Soporte Grupo Cavallaro",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Problemas de Conexión",
+                "title": "PS-Problemas de Conexión",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Vacaciones",
+                "title": "PS-Vacaciones",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Feriado",
+                "title": "PS-Feriado",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Beneficios",
+                "title": "PS-Beneficios",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Médico",
+                "title": "PS-Médico",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Día de Estudio",
+                "title": "PS-Día de Estudio",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Horas Extras",
+                "title": "PS-Horas Extras",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Capacitacion",
+                "title": "PS-Capacitacion",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Seguimientos y Reuniones",
+                "title": "PS-Seguimientos y Reuniones",
+                "ticketID": ""
+            },
+            {
+                "clientID": "PS",
+                "ticketDescription": "Horas No Facturables",
+                "title": "PS-Horas No Facturables",
+                "ticketID": ""
+            }
+        ],
+        "_id": "fZrASHjsNmSufRMQX",
+        "title": "PS - Grupo Cavallaro"
+    },
+    {
+        "cards": [
+            {
+                "clientID": "AC",
+                "ticketDescription": "Monitor FCE ZACFI122",
+                "title": "AC-286-Monitor FCE ZACFI122",
+                "ticketID": "286"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "No encuentra lote error ZACSD008",
+                "title": "AC-285-No encuentra lote error ZACSD008",
+                "ticketID": "285"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "DMND0036894 Mejoras SIDOM y SAP",
+                "title": "AC-284-DMND0036894 Mejoras SIDOM y SAP",
+                "ticketID": "284"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "INC2440836 - Error al descargar certificados de calidad en la web de clientes",
+                "title": "AC-282-INC2440836 - Error al descargar certificados de calidad en la web de clientes",
+                "ticketID": "282"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "DMND0037353 - Control transacción MIGO",
+                "title": "AC-281-DMND0037353 - Control transacción MIGO",
+                "ticketID": "281"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Activacion Business Function LOG_SD_PRICE_LIST",
+                "title": "AC-278-Activacion Business Function LOG_SD_PRICE_LIST",
+                "ticketID": "278"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "DMND0100388 Mejora en transacción ZACMM068",
+                "title": "AC-277-DMND0100388 Mejora en transacción ZACMM068",
+                "ticketID": "277"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Job transaccion ZACTM001",
+                "title": "AC-276-Job transaccion ZACTM001",
+                "ticketID": "276"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Job liberacion credito",
+                "title": "AC-275-Job liberacion credito",
+                "ticketID": "275"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Tablas Transportables",
+                "title": "AC-274-Tablas Transportables",
+                "ticketID": "274"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "INC2421048 - Tarifas SAP",
+                "title": "AC-272-INC2421048 - Tarifas SAP",
+                "ticketID": "272"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "No se genera factura a partir de pedido",
+                "title": "AC-269-No se genera factura a partir de pedido",
+                "ticketID": "269"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "DMND0034407 LP (Desarrollo +cerca)",
+                "title": "AC-260-DMND0034407 LP (Desarrollo +cerca)",
+                "ticketID": "260"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Analisis perfomance ZACHR137",
+                "title": "AC-253-Analisis perfomance ZACHR137",
+                "ticketID": "253"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "App fiori Organigrama - INC2337648 - PRB0043419",
+                "title": "AC-239-App fiori Organigrama - INC2337648 - PRB0043419",
+                "ticketID": "239"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "DMND0033886-Tipo NIF Obligatorio",
+                "title": "AC-162-DMND0033886-Tipo NIF Obligatorio",
+                "ticketID": "162"
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Soporte Acindar",
+                "title": "AC-Soporte Acindar",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AC",
+                "ticketDescription": "Incluir vencimiento de materiales refractarios en lote SAP",
+                "title": "AC-178-Incluir vencimiento de materiales refractarios en lote SAP",
+                "ticketID": "178"
+            }
+        ],
+        "_id": "JLCH7PQQ65Y2HYPHM",
+        "title": "PS - AC"
+    },
+    {
+        "cards": [
+            {
+                "clientID": "",
+                "ticketDescription": "",
+                "title": "Dia de estudio jueves 03/10",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "PerformanceHealth - Microsoft AX - NetSuite",
+                "title": "AS-94 - PerformanceHealth - Microsoft AX - NetSuite",
+                "ticketID": "94"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Onex",
+                "title": "AS-93-Onex",
+                "ticketID": "93"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "SSR Mining - PBI",
+                "title": "AS-50 - SSR Mining - PBI",
+                "ticketID": "50"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Trainings",
+                "title": "AS-Trainings",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Choice Properties - JDE",
+                "title": "AS-87 - Choice Properties - JDE",
+                "ticketID": "87"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Metro - SAP S4HANA - SAP BTP",
+                "title": "AS-85 - Metro - SAP S4HANA - SAP BTP",
+                "ticketID": "85"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Onex-D365 Business Central",
+                "title": "AS-88-Onex-D365 Business Central",
+                "ticketID": "88"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Northwest Project",
+                "title": "AS-91 - Northwest Project",
+                "ticketID": "91"
+            },
+            {
+                "clientID": "",
+                "ticketDescription": "",
+                "title": "Vacaciones 23/01/25 al 31/01/25",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Datos Útiles y Demos",
+                "title": "AS-Datos Útiles y Demos",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "English Class",
+                "title": "AS-English Class",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Barrick Support",
+                "title": "AS-82 - Barrick Support",
+                "ticketID": "82"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Sick Days",
+                "title": "AS-Sick Days",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Connection Issues",
+                "title": "AS-Connection Issues",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Personal Formalities",
+                "title": "AS-Personal Formalities",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Time",
+                "title": "AS-Time-Off",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Benefits",
+                "title": "AS-Benefits",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Study Days",
+                "title": "AS-Study Days",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Medical Appointment",
+                "title": "AS-Medical Appointment",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Holiday",
+                "title": "AS-Holiday",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Internal Stuff",
+                "title": "AS-Internal Stuff",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Learning Stuff",
+                "title": "AS-Learning Stuff",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Internal Meetings",
+                "title": "AS-Internal Meetings",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Touchpoint",
+                "title": "AS-Touchpoint",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Monthly Meeting",
+                "title": "AS-Monthly Meeting",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Developer Meeting",
+                "title": "AS-Developer Meeting",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Non",
+                "title": "AS-Non-Billable Hours",
+                "ticketID": ""
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Cooke - Snowflake",
+                "title": "AS-35-Cooke - Snowflake",
+                "ticketID": "35"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Hillwood - JDE",
+                "title": "AS-59 - Hillwood - JDE",
+                "ticketID": "59"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "ABC Integration - Kinetics and IQMS",
+                "title": "AS-70 - ABC Integration - Kinetics and IQMS",
+                "ticketID": "70"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Freeport - SAP ECC/S4 - Blackline",
+                "title": "AS-76 - Freeport - SAP ECC/S4 - Blackline",
+                "ticketID": "76"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Covia",
+                "title": "AS-73 - Covia",
+                "ticketID": "73"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Emera - Oracle EBS & SAP",
+                "title": "AS-62 - Emera - Oracle EBS & SAP",
+                "ticketID": "62"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Barrick-SIC + WBS Connector Improvements",
+                "title": "AS-71-Barrick-SIC + WBS Connector Improvements",
+                "ticketID": "71"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Four Seasons - D365 - T-Hub",
+                "title": "AS-81 - Four Seasons - D365 - T-Hub",
+                "ticketID": "81"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Linamar",
+                "title": "AS-24-Linamar",
+                "ticketID": "24"
+            },
+            {
+                "clientID": "AS",
+                "ticketDescription": "Kohler - SAP - Navision - Syteline - QAD - Sage",
+                "title": "AS-80 - Kohler - SAP - Navision - Syteline - QAD - Sage",
+                "ticketID": "80"
+            }
+        ],
+        "_id": "37Yf72QHZQrsw9rLY",
+        "title": "PS - OneStream"
+    }
+]
